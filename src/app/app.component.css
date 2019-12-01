@@ -1,0 +1,30 @@
+/** No CSS for this example */
+
+.test {
+  background-color: rgb(65, 199, 187);
+}
+
+.content {
+  align-content: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  color: white;
+}
+
+.docs-example-viewer-title-spacer {
+  flex: 1 1 auto;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+}
+
+.matCard {
+  width: 250px;
+  margin: 20px;
+  cursor: pointer;
+  padding: 25px;
+}
